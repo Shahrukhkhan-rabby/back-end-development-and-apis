@@ -19,3 +19,10 @@ function getProperCase(str) {
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
 }
+
+module.exports = {
+  getUpperCase,
+  getLowerCase,
+  getSentenceCase,
+  getProperCase,
+};
