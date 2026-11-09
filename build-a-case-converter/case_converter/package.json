@@ -13,6 +13,6 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "node index.test.js,"
+    "test": "node index.test.js"
   }
 }
