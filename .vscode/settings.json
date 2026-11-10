@@ -55,5 +55,7 @@
       "icon": "terminal-bash",
       "path": "bash"
     }
-  }
+  },
+  "editor.formatOnSave": true,
+  "files.autoSaveDelay": 1
 }
