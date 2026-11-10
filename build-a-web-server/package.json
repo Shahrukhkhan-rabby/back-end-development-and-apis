@@ -1,1 +1,6 @@
-{}
+{
+    "name": "build-a-web-server",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {}
+}
