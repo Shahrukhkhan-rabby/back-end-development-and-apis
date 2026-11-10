@@ -1,8 +1,8 @@
 function isPrime(num) {
-  if (!Number.isInteger(num) || num < 2) {
+  if (num <= 1) {
     return false;
   }
-  for (let i = 2; i * i <= num; i++) {
+  for (let i = 2; i <= Math.sqrt(num); i++) {
     if (num % i === 0) {
       return false;
     }
