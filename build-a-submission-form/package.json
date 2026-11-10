@@ -1,13 +1,11 @@
 {
   "name": "build-a-submission-form",
-  "version": "0.0.1",
-  "description": "",
-  "main": "server.js",
-  "scripts": {},
-  "dependencies": {
-    "express": "^5.1.0"
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
   },
-  "keywords": ["node", "freecodecamp"],
-  "license": "MIT",
-  "type": "module"
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
