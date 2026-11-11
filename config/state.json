@@ -1,9 +1,9 @@
 {
-  "currentProject": null,
+  "currentProject": "build-a-timestamp-microservice",
   "locale": "english",
   "lastSeed": {
-    "projectDashedName": "build-a-web-server",
-    "lessonNumber": 59
+    "projectDashedName": "build-a-resource-monitor",
+    "lessonNumber": 15
   },
-  "lastWatchChange": 34
+  "lastWatchChange": 0
 }
