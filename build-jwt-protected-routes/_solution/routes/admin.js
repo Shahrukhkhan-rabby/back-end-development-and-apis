@@ -7,7 +7,7 @@ const router = express.Router();
 
 router.get("/users", authenticate, authorizeRole("admin"), (req, res) => {
   const users = readUsers().map(({ passwordHash, ...user }) => user);
-  res.json({ users });
+  return res.json({ users });
 });
 
 export default router;
