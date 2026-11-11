@@ -158,13 +158,14 @@
     "dashedName": "build-a-bank-api",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 34,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 35
+    "numberOfLessons": 35,
+    "completedDate": 1794358630544
   },
   {
     "id": 12,
